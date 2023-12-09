@@ -11,3 +11,7 @@
 .themeSwitch {
   @apply transition-colors ease-in duration-200;
 }
+
+.customGradient {
+  @apply inline-block text-transparent bg-clip-text;
+}

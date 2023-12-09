@@ -15,6 +15,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         "outline-default":
           "bg-gradient-to-r from-slate-900 via-greenNight to-slate-900",
+        heroTop: "url('/backgroundTop.png') ",
       },
       colors: {
         outlineDefault: "",

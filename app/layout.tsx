@@ -21,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} p-2`}>
+      <body className={`${inter.className} p-`}>
         <NextThemeProvider>
           <Navbar />
           {children}
